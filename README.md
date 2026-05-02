@@ -137,7 +137,8 @@ SARIMA is an effective model for time-series forecasting, especially when data s
 
 ## 📈 Forecast Graph
 
-![Forecast Graph](forecast_graph.png)
+![Forecast Graph](<img width="1368" height="723" alt="Screenshot 2026-04-26 112749" src="https://github.com/user-attachments/assets/3a0e62a0-a2e5-44af-91c9-a58081525960" />
+)
 ## 🙌 Acknowledgement
 
 This project is developed as part of a Machine Learning Internship to gain practical experience in time-series forecasting.
